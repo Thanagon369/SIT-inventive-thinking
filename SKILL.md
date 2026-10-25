@@ -1,6 +1,6 @@
 ---
 name: sit-inventive-thinking
-description: Structured idea generation using the five Systematic Inventive Thinking (SIT) patterns - Subtraction, Division, Task Unification, Multiplication, Attribute Dependency - inside a "Closed World" of existing components. Use when the user wants to innovate on or improve an existing product, service, process, system, feature, game mechanic or workflow, break assumptions about how something "must" work, generate constrained variants, or says things like "think inside the box", "SIT method", "inventive thinking", "new ideas from what we already have". Do not use for open-ended brainstorming from scratch or for pure market research.
+description: Generate structured ideas with Systematic Inventive Thinking (SIT): 5 tools in a closed world. For improving products, processes, services or mechanics. Also: pensamiento inventivo sistemático.
 ---
 
 # SIT - Systematic Inventive Thinking
