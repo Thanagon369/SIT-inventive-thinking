@@ -1,6 +1,6 @@
 ---
 name: sit-inventive-thinking
-description: Generate structured ideas with Systematic Inventive Thinking (SIT): 5 tools in a closed world. For improving products, processes, services or mechanics. Also: pensamiento inventivo sistemático.
+description: "Generate structured ideas with Systematic Inventive Thinking (SIT): 5 tools in a closed world. For improving products, processes, services or mechanics. Also: pensamiento inventivo sistemático."
 ---
 
 # SIT - Systematic Inventive Thinking
